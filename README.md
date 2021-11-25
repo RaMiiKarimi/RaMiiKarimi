@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @RaMiiOffiCial
-- 👀 I’m interested in Programming And Gaming
-- 🌱 I’m currently learning HTML , Css , Php ,Python .
+- <h1>PHP , PYTHON , HTML ,  CSS </h1>
+- <hr / >
 
 <!---
 RaMiiOffiCial/RaMiiOffiCial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
