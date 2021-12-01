@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 [<img align="left" alt="RaMiiOffiCial.ir" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://ramiiofficial.ir/)
 [<img align="left" alt="RaMiiOffiCial | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCf_A2VSkO4UVKPo0FBgynAQ)
-[<img align="left" alt="RaMiiOffiCial | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Parsa_Soori)
+[<img align="left" alt="RaMiiOffiCial | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/MiiCial)
 [<img align="left" alt="RaMiiOffiCial | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/ramiiofficial_yt)
 
 <br />
